@@ -1,4 +1,6 @@
-# clj-nsca
+# cljr-nsca
+
+Fork of clj-nsca for Riemann.
 
 Clojure wrapper for [jsendnsca](https://code.google.com/p/jsendnsca/).
 The project uses [Midje](https://github.com/marick/Midje/).

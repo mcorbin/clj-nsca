@@ -1,6 +1,6 @@
-(ns clj-nsca.t-core
+(ns cljr-nsca.t-core
   (:use midje.sweet)
-  (:use [clj-nsca.core])
+  (:use [cljr-nsca.core])
   (:import [com.googlecode.jsendnsca.core NagiosSettings MessagePayload Encryption]))
 
 (facts "about `nagios-settings`"

@@ -1,4 +1,4 @@
-(ns clj-nsca.core
+(ns cljr-nsca.core
   (:import [com.googlecode.jsendnsca.core.builders NagiosSettingsBuilder MessagePayloadBuilder]
            [com.googlecode.jsendnsca.core.utils LevelUtils]
            [com.googlecode.jsendnsca.core NagiosPassiveCheckSender NagiosSettings Encryption]))
