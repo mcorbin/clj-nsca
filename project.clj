@@ -1,6 +1,6 @@
 (defproject cljr-nsca "0.0.3"
   :description "Clojure wrapper for jsendnsca - Send passive Nagios checks from Clojure."
-  :url "http://github.com/mcorbin/clj-nsca"
+  :url "https://github.com/mcorbin/clj-nsca"
   :repositories {"redhat" "https://maven.repository.redhat.com/ga/"}
   :dependencies [[com.googlecode/jsendnsca-core "1.3.1"]]
   :license {:name "Eclipse Public License - v 1.0"
