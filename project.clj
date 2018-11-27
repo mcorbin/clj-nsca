@@ -1,4 +1,4 @@
-(defproject cljr-nsca "0.0.3"
+(defproject cljr-nsca "0.0.4"
   :description "Clojure wrapper for jsendnsca - Send passive Nagios checks from Clojure."
   :url "https://github.com/mcorbin/clj-nsca"
   :repositories {"redhat" "https://maven.repository.redhat.com/ga/"}
